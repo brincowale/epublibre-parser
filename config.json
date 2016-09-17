@@ -1,0 +1,15 @@
+{
+  "url_index": {
+    "prefix_url": "https://www.epublibre.org/catalogo/index/",
+    "first_number_book_per_page": 0,
+    "increment_books_per_page": 18,
+    "suffix_url": "/nuevo/todos/sin/todos"
+  },
+  "server_sql": "sqlite:///books.db",
+  "wait_seconds_between_books": 300,
+  "wp_login": {
+    "username": "wp_username",
+    "password": "wp_password",
+    "url": "http://example.com/xmlrpc.php"
+  }
+}
